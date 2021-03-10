@@ -317,7 +317,7 @@ namespace ModelExtensions
 
 #endregion
 
-#region support of DataModelAnnotations for WPF
+#region support of DataModelAnnotations
 
         /// <summary>
         /// to be called from property setter.
